@@ -7,8 +7,8 @@ sections:
       one to three sentences, but can be changed as you prefer.
     section_id: hero
     title: >-
-      Hi, is India's leading Commercial & Residential landscape architect and
-      gardening.
+      Hi, We're is India's leading Commercial & Residential landscape architect
+      and gardening.
     type: heroblock
   - component: PortfolioBlock
     layout_style: mosaic
