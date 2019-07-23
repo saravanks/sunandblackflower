@@ -8,7 +8,7 @@ sections:
     type: heroblock
   - component: PortfolioBlock
     layout_style: mosaic
-    num_projects_displayed: 2
+    num_projects_displayed: 3
     section_id: latest-projects
     subtitle: An optional subtitle of the section
     title: Recent Work
