@@ -6,4 +6,4 @@ menus:
     weight: 5
 template: contact
 ---
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at landscape@sunandblack.com
+Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at landscape@sunandblack.com.
