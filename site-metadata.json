@@ -1,7 +1,6 @@
 {
   "title": "Sun and Black Flowers",
-  "color_scheme": "dark",
-  "accent_color": "pink",
+  "color_scheme": "light",
   "header": {
     "title": "Sun & Black Flowers ",
     "has_nav": true
