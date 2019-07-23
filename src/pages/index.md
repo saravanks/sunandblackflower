@@ -22,26 +22,11 @@ sections:
   - component: ServicesBlock
     section_id: services
     serviceslist:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
-        title: Service Title
-      - content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius. 
-        title: Service Title
-      - content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        title: Service title
-      - content: >-
-          Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis
-          justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
-          lorem ipsum, non efficitur urna viverra et.
-        title: Service title
-    subtitle: An optional subtitle of the section
+      - content: "* Significant site Designs\r\n* Comprehensive Master planning\r\n* 3D Auto CAD visualization\r\n* Exacting Documentation\r\n* Integrated waterway Planning, Planting , Irrigation & Landscape Lighting Planning"
+        title: Architectural Design
+      - content: "Execution of Landscape contracts includes Hardscape and softscape work.\r Various hardscape contract works includes\n\n* Ornamental stone wall\r\n* Stylish swimming pool and infinity pools\r\n* Cascades. Fountains and Biological pond\r\n* Wooden pergola, Gazebo and Hightensile structure\r\n* Barbeque\r\n* Fibre and metal statues\r\n* Drive way, Walkway, Car parking and landscaping lighting etc.\n\nSoftscape contract works includes\n\n* Lawn and planting works\r\n* Pop up and drip irrigation\r\n* Vertical garden system\r\n* Terrace garden etc"
+        title: Implementation
+    subtitle: We offer a following list of typical professional services
     title: What We Do
     type: servicesblock
   - component: TestimonialsBlock
@@ -72,7 +57,7 @@ sections:
     type: postsblock
   - component: ContactBlock
     section_id: contact
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     title: Contact Us
     type: contactblock
 menus:
